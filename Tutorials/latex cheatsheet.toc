@@ -1,0 +1,12 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Chapter Name}{3}% 
+\contentsline {section}{\numberline {1.1}A Section}{3}% 
+\contentsline {section}{\numberline {1.2}Smoothie}{7}% 
+\contentsline {section}{\numberline {1.3}Perfect Meal Recipe}{8}% 
+\contentsline {section}{\numberline {1.4}Type}{9}% 
+\contentsline {section}{\numberline {1.5}\textsf {Font Families}}{9}% 
+\contentsline {section}{\numberline {1.6}Math Formulas}{10}% 
+\contentsline {section}{\numberline {1.7}\textsf {Custom Commands}}{10}% 
+\contentsline {section}{\numberline {1.8}\textsf {Text Columns}}{11}% 
+\contentsline {section}{\numberline {1.9}Referencing}{11}% 
+\contentsline {subsection}{\numberline {1.9.1}A Subsection}{13}% 

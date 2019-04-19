@@ -1,0 +1,24 @@
+\babel@toc {english}{}
+\babel@toc {slovene}{}
+\babel@toc {english}{}
+\babel@toc {slovene}{}
+\contentsline {chapter}{\numberline {1}Uvod}{1}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}Izbira teme zaklju\IeC {\v c}nega dela}{3}{chapter.2}% 
+\contentsline {chapter}{\numberline {3}Opravljanje zaklju\IeC {\v c}nega dela}{5}{chapter.3}% 
+\contentsline {chapter}{\numberline {4}Pisanje zaklju\IeC {\v c}nega dela}{7}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Oblika zaklju\IeC {\v c}nega dela}{7}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Zgradba zaklju\IeC {\v c}nega dela}{8}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Vklju\IeC {\v c}itev vsebin}{10}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Ena\IeC {\v c}be}{10}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Slike}{12}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Programska koda}{12}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}Tabele}{13}{subsection.4.3.4}% 
+\contentsline {subsection}{\numberline {4.3.5}Navajanje literature z orodjem BibTeX}{13}{subsection.4.3.5}% 
+\contentsline {chapter}{\numberline {5}Zagovor zaklju\IeC {\v c}nega dela}{15}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Zaklju\IeC {\v c}ek}{17}{chapter.6}% 
+\contentsline {chapter}{Literatura}{19}{section*.8}% 
+\contentsline {chapter}{\numberline {A}Urejanje dokumentov z orodjem LaTeX}{23}{appendix.A}% 
+\contentsline {chapter}{\numberline {B}Vklju\IeC {\v c}evanje slik v LaTeX dokumente}{25}{appendix.B}% 
+\contentsline {chapter}{\numberline {C}Namestitev programskih orodij za urejanje LaTeX dokumentov}{27}{appendix.C}% 
+\contentsline {section}{\numberline {C.1}Sistemi Windows}{27}{section.C.1}% 
+\contentsline {section}{\numberline {C.2}Sistemi Linux}{28}{section.C.2}% 

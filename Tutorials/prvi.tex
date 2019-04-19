@@ -1,0 +1,82 @@
+%%%%%%%%%%
+% to je komentar
+% vsi ukazi imajo sledečo obliko:
+% \ukaz{option}
+
+%%%%%%%%%%
+% pri article classu se stevilka strani avtomatsko doda
+% sledeca vrstica je ukaz
+\documentclass{article}
+
+%%%%%%%%%%
+% sledi "obmocje" PREAMBLE ki se ne izpise direktno v dokumentu.
+% je par ukazov, ki se kasneje uporabijo za avtomatsko ustvarjenje naslovnice
+    \title{PRVI NA SCENI}
+    \date{04.04.2019}
+    \author{rezlou soimon}
+
+%%%%%%%%%%
+% za dodajanje "packages" dodaj ukaz v preamble datoteke
+% \usepackage{packagename}
+\usepackage{amsmath}
+
+
+%%%%%%%%%%
+% sledi enviroment ukaz. mora met tud \end{} na koncu. znotraj nekega enviromenta veljajo dolocena, nastavljena pravila
+\begin{document}
+
+%%%%%%%%%%
+% zelo uporabno tkole dodat naslovnico
+    \pagenumbering{gobble}    % no numbering
+        \maketitle
+        \newpage
+    \pagenumbering{roman}     % rimske cifre 
+
+%%%%%%%%%%
+% nove vrstice v editorju se ne izpisejo kot nove vrstice v dokumentu
+asd
+assdasdasdasda
+da as dasdas 
+
+%%%%%%%%%%
+        \newpage    % gre na naslednjo, novo stran
+    \pagenumbering{arabic}     % nase navadne cifre
+
+%%%%%%%%%%
+\section{SECTION1}
+Hello World!
+
+\subsection{subsect1}
+to je moj prvi dokument v Latexu šššššččččččč
+
+% paragrafi se ne dodajo v kazalo, sectioni pa se
+ \paragraph{nekiiiii}
+
+\subparagraph{ullalaaaa}
+
+%%%%%%%%%
+% vse kar je znotraj okolja za enacbe se prevede kot enacba in tudi ostevilci
+% ker sem dol snel "amsmath" lahko zdej neostevilcene enacbe nardim.
+\begin{equation*}    % neostevilceno
+  f(x) = x^2+3^5
+\end{equation*}
+
+\begin{equation}    %ostevilcena enacba
+  f(x) = (x^2+3^5)/x^2
+\end{equation}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
